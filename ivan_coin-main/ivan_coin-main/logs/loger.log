@@ -1,0 +1,25 @@
+loger 2024-12-18 22:03:41,075 INFO Localization lang set to cz
+loger 2024-12-18 22:03:41,075 ERROR Error during localization: name 'sign_in' is not defined
+loger 2024-12-18 22:03:41,242 INFO Localization lang set to ua
+loger 2024-12-18 22:03:41,242 ERROR Error during localization: name 'sign_in' is not defined
+loger 2024-12-18 22:03:41,406 INFO Localization lang set to en
+loger 2024-12-18 22:03:41,408 ERROR Error during localization: name 'sign_in' is not defined
+loger 2024-12-18 22:03:41,627 INFO Localization lang set to cz
+loger 2024-12-18 22:03:41,632 ERROR Error during localization: name 'sign_in' is not defined
+loger 2024-12-18 22:03:41,803 INFO Localization lang set to ua
+loger 2024-12-18 22:03:41,803 ERROR Error during localization: name 'sign_in' is not defined
+loger 2024-12-18 22:03:41,970 INFO Localization lang set to en
+loger 2024-12-18 22:03:41,970 ERROR Error during localization: name 'sign_in' is not defined
+loger 2024-12-18 22:03:42,158 INFO Localization lang set to cz
+loger 2024-12-18 22:03:42,158 ERROR Error during localization: name 'sign_in' is not defined
+loger 2024-12-18 22:03:42,316 INFO Localization lang set to ua
+loger 2024-12-18 22:03:42,316 ERROR Error during localization: name 'sign_in' is not defined
+loger 2024-12-18 22:03:42,473 INFO Localization lang set to en
+loger 2024-12-18 22:03:42,475 ERROR Error during localization: name 'sign_in' is not defined
+loger 2024-12-18 22:03:42,656 INFO Localization lang set to cz
+loger 2024-12-18 22:03:42,658 ERROR Error during localization: name 'sign_in' is not defined
+loger 2024-12-18 22:03:42,838 INFO Localization lang set to ua
+loger 2024-12-18 22:03:42,840 ERROR Error during localization: name 'sign_in' is not defined
+loger 2024-12-18 22:03:47,722 INFO try to sing up as \ºõäæüá:\æá
+loger 2024-12-18 22:03:47,723 INFO data dump sucefulled
+loger 2024-12-18 22:03:47,728 INFO sing up procesing \ºõäæüá:\æá possible _id - 33
