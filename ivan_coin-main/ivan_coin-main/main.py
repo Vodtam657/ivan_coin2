@@ -366,7 +366,7 @@ def localization():
         elif current_lang == "ua":
             current_lang = "en"  # Якщо зараз українська, перемикаємо на англійську
         elif current_lang == "en":
-            current_lang = "cz"  # Якщо зараз англійська, перемикаємо на чеську
+            current_lang = "pl"  # Якщо зараз англійська, перемикаємо на чеську
         elif current_lang == "pl":
             current_lang = "jp"  # Якщо зараз польська, перемикаємо на японську
         elif current_lang == "jp":
@@ -643,8 +643,8 @@ def del_account_accept():
     user = user_data_load("data/game.json", status[1])
     user["cur balance"] = 0
     user["on tap"] = 1
-    user["energy"] = 500
-    user["energy limit"] = 500
+    user["energy"] = 1500
+    user["energy limit"] = 1000
     user["taps"] = 0
     user["all balance"] = 0
     user["boosts"] = {"full energy limit": 3, "full energy current": 3}
